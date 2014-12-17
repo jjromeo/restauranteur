@@ -1,0 +1,8 @@
+{
+  "name": "dsl-generated dependencies",
+  "dependencies": {
+    "angularjs": "latest",
+    "angular-mocks": "latest",
+    "angular-route": "latest"
+  }
+}
